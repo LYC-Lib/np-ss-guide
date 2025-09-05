@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Social Sustainability Educators&#39; Guide</name>
+      <description lang="en-US">Welcome to the Social Sustainability Educators&#39; Guide!&amp;nbsp; This guide is designed to support the integration of social sustainability into our lessons. As the topic of social sustainability (SS) is still evolving, the concepts, ideas, templates presented will be updated from time to time to keep pace with the emerging developments in this field. &amp;nbsp;The materials are meant to be a timely resource to be adapted into our teaching and learning practices. This guide is divided into three segments:&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Why&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;- the importance of learning about social sustainability and its connection to NP&#39;s strategic commitment and graduate outcomes.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;What&amp;nbsp;&lt;/strong&gt;- some basic concepts and NP&#39;s approach to social sustainability.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;How&amp;nbsp;&lt;/strong&gt;- the SS learning framework and guiding parameters to scoping learning activities.&lt;/li&gt;&lt;/ol&gt;Each lesson aims to provide you with the essential content; however, additional resources are provided at the&lt;strong&gt;&amp;nbsp;&#34;LEARN MORE&#34;&lt;/strong&gt; sections if you wish to dive deeper into specific topics. Do check out the &lt;strong&gt;&#34;LESSON IDEAS&#34;&lt;/strong&gt; sections for suggestions and examples that you could include in your lessons.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/FNlh5Hcd7TzqQoywTKTUcD1tnCsTEPET" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">WHY SOCIAL SUSTAINABILITY?/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/0La12QVUKkUBCQiD8FCRAgKQxV7K035k" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Social Sustainability as a Strategic Thrust/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/qjBpVzqRDZfTaw1WbFXraTAxBmWWY4G2" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Fostering Graduate Outcomes &amp; Competencies/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/Hag5KetbXzN8SyViwoks7pThnQu8qMPW" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">what is Social Sustainability?/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/oOTqBI_rsUM3UEHX8hWNPI0-Jz7Mqnzo" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">&#34;Do good and do well&#34; - Creating Shared Value/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/EohhFIttgRO7oVZT3LZxQs6JgV1iIjH5" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">&#34;Do good&#34; - Addressing &#39;People&#39; Issues/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/Tq0CRWqRHnKYkVYV2m6cCpix0RfVTdNN" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">&#34;Do well&#34; - Achieving Corporate Purpose/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/Ioe_fCBqekXBcwxzbBhtMPZn-XbhaXHz" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">How to Infuse social sustainability into curriculum?/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/2mLQ74upVyJnUDb12rBBYqzbbk1779qK" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">SS Learning Framework/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/Fwqny8nIZNSSMNTnTL6UcfrLUIBrqukU" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Scoping of SS Learning Activities/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/ETB4CZ3xHsrFJh7ZC7nAa3lR6m1HRc8U" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">NP Case Studies /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/hiQOHuaGlWTeb_6q43BBu39ZYi6BdmUI" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Getting Started/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/bRCSmFFvM7AmlTVVXMJOZi10p4BS9CMB" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Exit Tickets/section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/KJi-09y7-txtEjmbO1WUb2fA1DeegIVj" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Quiz/quiz</name>
+      <description lang="en-US">Test your knowledge of social sustainability with this quiz &lt;strong&gt;(10 questions)&lt;/strong&gt;.&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Passing Score&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; 80% or higher&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Reward&lt;/strong&gt;&lt;strong&gt;:&lt;/strong&gt; Receive a &lt;strong&gt;digital badge&lt;/strong&gt; as recognition of your achievement upon scoring 80% or higher score. A confirmation email with your badge will be sent directly to your inbox.&lt;/li&gt;&lt;/ul&gt;Challenge yourself and demonstrate your commitment to advancing social sustainability and creating a more inclusive, equitable, and resilient future.</description>
+    </activity>
+                                  
+<activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/KJi-09y7-txtEjmbO1WUb2fA1DeegIVj/cmdmzqccy01w13j7ecqikzaj3" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">&lt;strong&gt;A vision for a shared and sustainable future&amp;nbsp;&lt;/strong&gt;&lt;em&gt;(match the vision statements below)&lt;/em&gt;</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_clzv6gdv500273j78in9vmx80[.]target_clzv6gdv500273j78in9vmx80</correctResponsePattern>
+    <correctResponsePattern>source_clzv6gdv500283j78n10fya12[.]target_clzv6gdv500283j78n10fya12</correctResponsePattern>
+    <correctResponsePattern>source_clzv6gdv500293j78nvzgkaec[.]target_clzv6gdv500293j78nvzgkaec</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_clzv6gdv500273j78in9vmx80</id>
+    <description lang="en-US">Social sustainability concepts are embedded into every NP learner’s experience></description>
+  </component>
+    <component>
+    <id>source_clzv6gdv500283j78n10fya12</id>
+    <description lang="en-US">We empower companies to create shared value ></description>
+  </component>
+    <component>
+    <id>source_clzv6gdv500293j78nvzgkaec</id>
+    <description lang="en-US">NP is recognised as a thought leader in social sustainability to develop best practices ></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_clzv6gdv500273j78in9vmx80</id>
+        <description lang="en-US">shaping them to be purpose-driven in school, at work, and in life.</description>
+      </component>
+          <component>
+        <id>target_clzv6gdv500283j78n10fya12</id>
+        <description lang="en-US">through proactively managing business impact on people and communities. </description>
+      </component>
+          <component>
+        <id>target_clzv6gdv500293j78nvzgkaec</id>
+        <description lang="en-US">so as to partner businesses and communities to build stronger and healthier systems.</description>
+      </component>
+      </target>
+  </activity>
+                              
+<activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/KJi-09y7-txtEjmbO1WUb2fA1DeegIVj/cmdgq4fn600dm357d26st4bid" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which of the following best describes the concept of social sustainability?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmdgq4fn700do357dq50ya199</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmdgq4fn700dn357dg60rnnr9</id>
+    <description lang="en-US">Promoting environmental conservation above all else</description>
+  </component>
+    <component>
+    <id>choice_cmdgq4fn700do357dq50ya199</id>
+    <description lang="en-US">Creating and maintaining equitable and inclusive communities</description>
+  </component>
+    <component>
+    <id>choice_cmdgq6etk00gb357drtih61a0</id>
+    <description lang="en-US">Ensuring economic growth through industrial development</description>
+  </component>
+    <component>
+    <id>choice_cmdgq79z800gd357doaadx023</id>
+    <description lang="en-US">Focusing on technological advancements to solve social issues</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/KJi-09y7-txtEjmbO1WUb2fA1DeegIVj/cmdgq4fn700dp357dldoqcxvb" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which of the following best describes the concept of creating shared value in business?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmdgq4fn700dt357d9mxunb1u</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmdgq4fn700dq357dxwujscv5</id>
+    <description lang="en-US">Reducing operational costs to improve competitiveness</description>
+  </component>
+    <component>
+    <id>choice_cmdgq4fn700ds357dbek442hd</id>
+    <description lang="en-US">Focusing solely on maximizing profits for shareholders</description>
+  </component>
+    <component>
+    <id>choice_cmdgq4fn700dt357d9mxunb1u</id>
+    <description lang="en-US">Integrating social and environmental considerations into core business strategies</description>
+  </component>
+    <component>
+    <id>choice_cmdgq4fn700dr357do38t4lf7</id>
+    <description lang="en-US">Donating a portion of profits to charitable causes</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/KJi-09y7-txtEjmbO1WUb2fA1DeegIVj/cmdgxj2oj004u357e9kvjwi1k" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which of the following is a key competency for advancing social sustainability?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmdgxj2oj004w357exnorx2ye</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmdgxj2oj004v357e0j04ovy9</id>
+    <description lang="en-US">Promoting competition over collaboration</description>
+  </component>
+    <component>
+    <id>choice_cmdgxj2oj004w357exnorx2ye</id>
+    <description lang="en-US">Systems thinking to understand interconnected social issues</description>
+  </component>
+    <component>
+    <id>choice_cmdgxj2oy004x357etq25g160</id>
+    <description lang="en-US">Ignoring cultural diversity to streamline processes</description>
+  </component>
+    <component>
+    <id>choice_cmdgxjvmk004z357ea21cl1sp</id>
+    <description lang="en-US">Focusing solely on short-term economic gains</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/KJi-09y7-txtEjmbO1WUb2fA1DeegIVj/cmdgxr5vv0052357eib2zwgjp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which of the following best illustrates the concept of &#39;Do Good and Do Well&#39; in a business context?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cmdgxtsum0057357e3er3birb</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cmdgxr5vw0053357e4ne6r31c</id>
+    <description lang="en-US">A company reduces costs by outsourcing jobs to lower-wage countries.</description>
+  </component>
+    <component>
+    <id>choice_cmdgxr5vw0054357e28c6ycwk</id>
+    <description lang="en-US">An organization donates a portion of its profits to charity without changing its core operations.</description>
+  </component>
+    <component>
+    <id>choice_cmdgxr5wh0055357earhgwhmo</id>
+    <description lang="en-US">A company focuses exclusively on increasing shareholder value through aggressive marketing strategies.</description>
+  </component>
+    <component>
+    <id>choice_cmdgxtsum0057357e3er3birb</id>
+    <description lang="en-US">A business integrates sustainable practices that benefit both the community and its profitability.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/KJi-09y7-txtEjmbO1WUb2fA1DeegIVj/cmdmxs8gl006n3j7fhmb4rsux" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is a key difference between Corporate Social Responsibility (CSR) and Creating Shared Value (CSV)?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_82c730bb-89af-4e82-a87d-52cf8185add8</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_b046b17d-6c24-49c4-bf7e-dc23f28886bf</id>
+    <description lang="en-US">CSR and CSV are identical concepts with different terminologies.</description>
+  </component>
+    <component>
+    <id>choice_055e2974-ddcd-43df-833d-e4c38b09d9d8</id>
+    <description lang="en-US">CSR is a modern approach to business, while CSV is an outdated concept.</description>
+  </component>
+    <component>
+    <id>choice_95c7000e-3136-438a-afa9-6d6b4f373181</id>
+    <description lang="en-US">CSR prioritizes profit over social impact, while CSV focuses solely on social impact.</description>
+  </component>
+    <component>
+    <id>choice_82c730bb-89af-4e82-a87d-52cf8185add8</id>
+    <description lang="en-US">CSR focuses on compliance and philanthropy, while CSV integrates social impact into core business strategies.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/KJi-09y7-txtEjmbO1WUb2fA1DeegIVj/cmdmxz3ju006k3j7er17f5j9c" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">What is the ultimate goal of creating shared value, as described by Porter and Kramer?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_19d7844f-7522-4626-9c50-fa6aae06a15d</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_d0ee12b3-3b52-4f8c-be3e-a8acd252a584</id>
+    <description lang="en-US">To prioritize environmental sustainability over all other concerns</description>
+  </component>
+    <component>
+    <id>choice_19d7844f-7522-4626-9c50-fa6aae06a15d</id>
+    <description lang="en-US">To address societal needs in ways that also create economic value</description>
+  </component>
+    <component>
+    <id>choice_78fead29-0bed-4c53-89b4-12f7271902de</id>
+    <description lang="en-US">To maximize profits for businesses at all costs</description>
+  </component>
+    <component>
+    <id>choice_268bfd54-7d7e-4bb5-8d92-da4a5884f2a7</id>
+    <description lang="en-US">To focus solely on corporate social responsibility initiatives</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/KJi-09y7-txtEjmbO1WUb2fA1DeegIVj/cmdmyonnw01jy3j7e3utzdmwt" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which statement best explains the relationship between the United Nations’ Sustainable Development Goals (SDGs) and social sustainability?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_5ca50262-ccbc-4e70-a472-cbe2bc3e8e26</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_75bc0668-7013-4aca-a401-eb75a3a8c5d1</id>
+    <description lang="en-US">The SDGs focus solely on environmental sustainability, leaving social issues to be addressed separately.</description>
+  </component>
+    <component>
+    <id>choice_38838fdc-46b5-4d87-b188-11b3c8933ca8</id>
+    <description lang="en-US">The SDGs prioritize economic growth over social and environmental concerns.</description>
+  </component>
+    <component>
+    <id>choice_461b7bad-197d-4467-8911-88c8bd15a3c5</id>
+    <description lang="en-US">Social sustainability is unrelated to the SDGs, as they primarily address ecological challenges.</description>
+  </component>
+    <component>
+    <id>choice_5ca50262-ccbc-4e70-a472-cbe2bc3e8e26</id>
+    <description lang="en-US">Social sustainability is a key component of the SDGs, addressing issues like equity, justice, and community well-being.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/KJi-09y7-txtEjmbO1WUb2fA1DeegIVj/cmdmyox7d01k53j7e6k6bqkom" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">According to Colin Mayer (in the chapter &#34;Doing Well&#34; - Achieving Corporate Purpose), what is the purpose of business?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_34af387c-f4f5-41d2-8a72-1912c7605e28</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_476b5b59-08ea-490b-b7b8-f88a72d45fd8</id>
+    <description lang="en-US">To maximize profits for shareholders.</description>
+  </component>
+    <component>
+    <id>choice_34af387c-f4f5-41d2-8a72-1912c7605e28</id>
+    <description lang="en-US">To produce profitable solutions to the problems of people and planet.</description>
+  </component>
+    <component>
+    <id>choice_ce616255-b228-4aef-97f0-9bdaf38b9c89</id>
+    <description lang="en-US">To focus on short-term financial gains.</description>
+  </component>
+    <component>
+    <id>choice_557a5ad1-32bd-4cdd-9079-87acad64c14f</id>
+    <description lang="en-US">To avoid addressing societal and environmental issues.</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/KJi-09y7-txtEjmbO1WUb2fA1DeegIVj/cmdmzpzmt01vs3j7eez3xzl4z" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Match each tier of the SS Learning Framework with its primary focus and objectives. This will test your understanding of how the tiers build upon one another to develop social sustainability competencies.</name>
+  <description lang="en-US"></description>
+  <interactionType>matching</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>source_7ea9dfc4-5fbc-4619-8383-ccea1ca5803c[.]target_7ea9dfc4-5fbc-4619-8383-ccea1ca5803c</correctResponsePattern>
+    <correctResponsePattern>source_f0a1271f-69e0-4a54-93e9-cc698f282854[.]target_f0a1271f-69e0-4a54-93e9-cc698f282854</correctResponsePattern>
+    <correctResponsePattern>source_a2091fc5-90c1-4d2a-a8db-7608ddad5232[.]target_a2091fc5-90c1-4d2a-a8db-7608ddad5232</correctResponsePattern>
+    </correctResponsePatterns>
+    <source>
+    <component>
+    <id>source_7ea9dfc4-5fbc-4619-8383-ccea1ca5803c</id>
+    <description lang="en-US">Tier 1></description>
+  </component>
+    <component>
+    <id>source_f0a1271f-69e0-4a54-93e9-cc698f282854</id>
+    <description lang="en-US">Tier 2></description>
+  </component>
+    <component>
+    <id>source_a2091fc5-90c1-4d2a-a8db-7608ddad5232</id>
+    <description lang="en-US">Tier 3></description>
+  </component>
+    </source>
+  <target>
+          <component>
+        <id>target_7ea9dfc4-5fbc-4619-8383-ccea1ca5803c</id>
+        <description lang="en-US">Focuses on introducing basic principles of social sustainability, individual responsibility, and understanding social issues.</description>
+      </component>
+          <component>
+        <id>target_f0a1271f-69e0-4a54-93e9-cc698f282854</id>
+        <description lang="en-US">Focuses on taking action through skills like needs analysis and prototyping to address real-world social issues.</description>
+      </component>
+          <component>
+        <id>target_a2091fc5-90c1-4d2a-a8db-7608ddad5232</id>
+        <description lang="en-US">Focuses on creating impact through strategic systems thinking, stakeholder engagement, and building sustainable solutions.</description>
+      </component>
+      </target>
+  </activity>
+                      <activity id="http://bMc7uNfUOHqTpMg2SbfkIvjKDJDQ_Y8Y_rise/P5ZbJ8DQhqLSkEajYSuklKa5Tz2EN86f" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Acknowledgments/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
